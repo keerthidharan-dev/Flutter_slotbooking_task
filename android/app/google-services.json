@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106512992195",
+    "project_id": "main-f8d39",
+    "storage_bucket": "main-f8d39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106512992195:android:f5895ad5058651a1181f76",
+        "android_client_info": {
+          "package_name": "com.kproduce.slotbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrZXytCJH3ocEKEW98cN1HaZl3gCcvnFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
